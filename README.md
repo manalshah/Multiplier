@@ -1,5 +1,5 @@
-# Multiplier-
-Signed Binary Multiplier &amp; Divider Circuit(64-bit )
+# Multiplier
+# Signed Binary Multiplier &amp; Divider Circuit(64-bit )
 
 Implemented a 64-bit Signed Binary Multiplier & Divider Circuit.
 
